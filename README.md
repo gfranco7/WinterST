@@ -20,7 +20,7 @@ Este repositorio contiene una página web diseñada con un enfoque Mobile First 
 
 - `main__index.html`: Página principal
 - `camisetas__index.html`, `abrigos__index.html`, `panta__index.html` : Módulos o páginas específicas
-- `main__style.css`, `pro__style.css`, `shop__style.css`: Archivos de estilos CSS
+- `main__style.css`, `abrigos__style.css`, `camisetas__style.css`, `panta__style.css`: Archivos de estilos CSS
 
 ## Uso
 
