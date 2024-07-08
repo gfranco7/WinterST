@@ -5,7 +5,7 @@ Este repositorio contiene una página web diseñada con un enfoque Mobile First 
 
 #Tabla de Contenido
 - [Características](#características)
-- [Tecnologías Utilizadas](#tecnologuas-utilizadas)
+- [Tecnologías Utilizadas](#tecnologias-utilizadas)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Uso](#uso)
 - [Licencia](#licencia)
@@ -15,7 +15,7 @@ Este repositorio contiene una página web diseñada con un enfoque Mobile First 
 - Totalmente responsive
 - Cuatro módulos o páginas sobre artículos militares
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas📟
 
 - HTML5
 - CSS3
